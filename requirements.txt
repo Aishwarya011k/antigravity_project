@@ -1,0 +1,23 @@
+# FastAPI and Web Server
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# Scheduling and Background Tasks
+apscheduler
+
+# SMS and Communication
+twilio
+
+# Data Scraping and API Clients
+requests
+feedparser
+atproto
+google-search-results
+openai
+
+# NLP and Machine Learning
+spacy
+transformers
+torch
